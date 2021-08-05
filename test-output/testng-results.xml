@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-04T16:38:14 UYT" name="Default suite" finished-at="2021-08-04T16:38:50 UYT" duration-ms="35345">
+    <groups>
+    </groups>
+    <test started-at="2021-08-04T16:38:14 UYT" name="Default test" finished-at="2021-08-04T16:38:50 UYT" duration-ms="35345">
+      <class name="EjercicioSaleforce1.A.TestParte7">
+        <test-method is-config="true" signature="InitializeDriver()[pri:0, instance:EjercicioSaleforce1.A.TestParte7@48f278eb]" started-at="2021-08-04T16:38:14 UYT" name="InitializeDriver" finished-at="2021-08-04T16:38:16 UYT" duration-ms="2269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeDriver -->
+        <test-method signature="SaleforceTest7()[pri:0, instance:EjercicioSaleforce1.A.TestParte7@48f278eb]" started-at="2021-08-04T16:38:16 UYT" name="SaleforceTest7" finished-at="2021-08-04T16:38:45 UYT" duration-ms="28804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SaleforceTest7 -->
+        <test-method is-config="true" signature="CloseDriver()[pri:0, instance:EjercicioSaleforce1.A.TestParte7@48f278eb]" started-at="2021-08-04T16:38:45 UYT" name="CloseDriver" finished-at="2021-08-04T16:38:50 UYT" duration-ms="4228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+      </class> <!-- EjercicioSaleforce1.A.TestParte7 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
